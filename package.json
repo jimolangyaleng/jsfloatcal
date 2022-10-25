@@ -1,0 +1,15 @@
+{
+  "name": "jsfloatcal",
+  "version": "1.0.2",
+  "description": "简易javascript 浮点数精度计算，包含加、减、乘、除运算",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "浮点数",
+    "精度"
+  ],
+  "author": "狼牙 <251813997@qq.com>",
+  "license": "ISC"
+}
